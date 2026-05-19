@@ -1,4 +1,4 @@
-# App1 - Registro de Usuario
+# Práctica 1 - Interfaz Gráfica de Usuario
 
 Este es un proyecto de aplicación Android desarrollado en Kotlin que permite el registro detallado de usuarios, utilizando componentes de Material Design y animaciones Lottie.
 
@@ -32,7 +32,7 @@ La aplicación cuenta con un formulario de registro completo que incluye:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/App1.git
+   git clone https://github.com/tu-usuario/App1_UI.git
    ```
 2. **Abrir en Android Studio:**
    Selecciona la carpeta raíz del proyecto.
@@ -41,6 +41,4 @@ La aplicación cuenta con un formulario de registro completo que incluye:
 4. **Ejecutar:**
    Selecciona un emulador o dispositivo físico con API 34 o superior.
 
-## ✒️ Autores
 
-- **UTEQ Software** - *Desarrollo Inicial*
