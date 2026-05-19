@@ -2,6 +2,9 @@
 
 Este es un proyecto de aplicación Android desarrollado en Kotlin que permite el registro detallado de usuarios, utilizando componentes de Material Design y animaciones Lottie.
 
+![Login](app/src/main/res/drawable/ui1.png)
+![Formulario](app/src/main/res/drawable/ui2.png)
+
 ## 📋 Características
 
 La aplicación cuenta con un formulario de registro completo que incluye:
